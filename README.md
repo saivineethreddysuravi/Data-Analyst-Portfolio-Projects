@@ -1,5 +1,6 @@
 # Data-Analyst-Portfolio-Projects
 
+Welcome! This repository showcases a collection of Data Analyst projects involving Python, Data Visualization, and Exploratory Data Analysis (EDA).
 
 |1. Blog on Hotel Booking Project| [Explanation Link](https://medium.com/@sachintukumar1609/data-analyst-project-on-hotel-booking-cde5e70a033e)
 |-|-|
