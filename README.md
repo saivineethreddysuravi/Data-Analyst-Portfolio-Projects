@@ -1,5 +1,13 @@
 # Data-Analyst-Portfolio-Projects
 
+Welcome! This repository showcases a collection of Data Analyst projects involving Python, Data Visualization, and Exploratory Data Analysis (EDA).
+
+## Tech Stack
+- **Languages:** Python
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+- **Tools:** Jupyter Notebook
+
+The goal of these projects is to derive actionable insights from raw data through rigorous statistical analysis and visualization.
 
 |1. Blog on Hotel Booking Project| [Explanation Link](https://medium.com/@sachintukumar1609/data-analyst-project-on-hotel-booking-cde5e70a033e)
 |-|-|
