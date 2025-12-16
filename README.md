@@ -18,3 +18,9 @@ The goal of these projects is to derive actionable insights from raw data throug
 |2. Blog on Finance Data Analysis Project| [Explanation Link](https://medium.com/@sachintukumar1609/finance-data-analysis-project-fe5ed9ec44f3)
 |-|-|
 ![financial-data-analysis-concept-white-background-drawn-79671229](https://user-images.githubusercontent.com/103982094/228513411-fd2e599c-f44f-4228-b5a3-7eccc3a9edf4.jpg)
+
+## About the Author
+
+**Sai Vineeth Reddy Suravi**  
+Data Analyst | Business Intelligence Specialist  
+[GitHub Profile](https://github.com/saivineethreddysuravi)
